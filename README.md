@@ -8,7 +8,7 @@ This project was built to simulate production enterprise server monitoring, focu
 
 ---
 
-## 🛠️ The Script (`DiskMonitor.ps1`)
+## 🛠️ The Script (`disk space alert system.ps1`)
 This PowerShell script calculates free disk space percentages, compares them against a predefined safety threshold, and dynamically routes the output to either a healthy log or an active administrative pop-up notification.
 
 ```powershell
